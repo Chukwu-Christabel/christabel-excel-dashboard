@@ -4,9 +4,9 @@ A dynamic and insightful logistics dashboard built entirely in Microsoft Excel. 
 
 📊 Interactive. Clean. Business-Ready.
 
-[📥 Download Dashboard Excel File](./Logistics_Dashboard.xlsx)  
+[📥 Download Dashboard Excel File](./Logistics_Dashboard_Corrected.xlsx)  
 [🖼️ View Dataset Preview](./images/raw-dataset-preview.png)  
-[📸 See Final Dashboard Snapshot](./images/dashboard-snapshot.png)
+[📸 See Final Dashboard Snapshot](./images/Logistics-dashboard-snapshot.png)
 
 ---
 
